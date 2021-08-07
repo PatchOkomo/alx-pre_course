@@ -1,0 +1,2 @@
+-This is my very __First__ Git repository that I am working on
+-It is all about ALX and my journey towards being the success I want to be
