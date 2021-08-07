@@ -1,0 +1,2 @@
+-We dive into the __First Project__
+-Projects here will be _awesome_
